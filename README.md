@@ -37,7 +37,7 @@ $ python3 src/harshark.py
 | Help > About | Software information.  |
 
 ### Toolbar
-
+ 
 | Item  | Description |
 | ------------- | ------------- |
 | Open  | Open a new HAR file to view (CTRL + O).  |
